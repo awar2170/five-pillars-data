@@ -1,0 +1,57 @@
+[
+    {
+        "rank": "player",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 15,
+        "ap_calculated": false,
+        "user_id": 60,
+        "attended": true,
+        "event_id": 4
+    },
+    {
+        "rank": "player",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 25,
+        "ap_calculated": false,
+        "user_id": 60,
+        "attended": true,
+        "event_id": 5
+    },
+    {
+        "rank": "player",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 20,
+        "ap_calculated": false,
+        "user_id": 60,
+        "attended": true,
+        "event_id": 6
+    },
+    {
+        "rank": "player",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 15,
+        "ap_calculated": false,
+        "user_id": 60,
+        "attended": true,
+        "event_id": 8
+    },
+    {
+        "rank": "player",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 30,
+        "ap_calculated": false,
+        "user_id": 60,
+        "attended": true,
+        "event_id": 9
+    }
+]

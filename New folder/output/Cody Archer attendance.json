@@ -1,0 +1,101 @@
+[
+    {
+        "rank": "story",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 95,
+        "ap_calculated": false,
+        "user_id": 68,
+        "attended": true,
+        "event_id": 1
+    },
+    {
+        "rank": "story",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 120,
+        "ap_calculated": false,
+        "user_id": 68,
+        "attended": true,
+        "event_id": 2
+    },
+    {
+        "rank": "story",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 0,
+        "ap_calculated": false,
+        "user_id": 68,
+        "attended": true,
+        "event_id": 3
+    },
+    {
+        "rank": "story",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 0,
+        "ap_calculated": false,
+        "user_id": 68,
+        "attended": true,
+        "event_id": 4
+    },
+    {
+        "rank": "story",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 0,
+        "ap_calculated": false,
+        "user_id": 68,
+        "attended": true,
+        "event_id": 5
+    },
+    {
+        "rank": "story",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 0,
+        "ap_calculated": false,
+        "user_id": 68,
+        "attended": true,
+        "event_id": 6
+    },
+    {
+        "rank": "player",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 20,
+        "ap_calculated": false,
+        "user_id": 68,
+        "attended": true,
+        "event_id": 7
+    },
+    {
+        "rank": "player",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 10,
+        "ap_calculated": false,
+        "user_id": 68,
+        "attended": true,
+        "event_id": 8
+    },
+    {
+        "rank": "story",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 120,
+        "ap_calculated": false,
+        "user_id": 68,
+        "attended": true,
+        "event_id": 9
+    }
+]

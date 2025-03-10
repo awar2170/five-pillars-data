@@ -1,0 +1,24 @@
+[
+    {
+        "rank": "story",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 120,
+        "ap_calculated": false,
+        "user_id": 105,
+        "attended": true,
+        "event_id": 1
+    },
+    {
+        "rank": "story",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 120,
+        "ap_calculated": false,
+        "user_id": 105,
+        "attended": true,
+        "event_id": 2
+    }
+]
