@@ -8,7 +8,7 @@
         "ap_calculated": false,
         "user_id": 56,
         "attended": true,
-        "event_id": 3
+        "event_id": 6
     },
     {
         "rank": "player",
@@ -19,6 +19,6 @@
         "ap_calculated": false,
         "user_id": 56,
         "attended": true,
-        "event_id": 5
+        "event_id": 8
     }
 ]

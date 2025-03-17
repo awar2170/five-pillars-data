@@ -8,7 +8,7 @@
         "ap_calculated": false,
         "user_id": 9,
         "attended": true,
-        "event_id": 1
+        "event_id": 4
     },
     {
         "rank": "player",
@@ -19,39 +19,6 @@
         "ap_calculated": false,
         "user_id": 9,
         "attended": true,
-        "event_id": 2
-    },
-    {
-        "rank": "player",
-        "paid": true,
-        "checkin": true,
-        "worked": true,
-        "ap_earned": 0,
-        "ap_calculated": false,
-        "user_id": 9,
-        "attended": true,
-        "event_id": 3
-    },
-    {
-        "rank": "player",
-        "paid": true,
-        "checkin": true,
-        "worked": true,
-        "ap_earned": 10,
-        "ap_calculated": false,
-        "user_id": 9,
-        "attended": true,
-        "event_id": 4
-    },
-    {
-        "rank": "player",
-        "paid": true,
-        "checkin": true,
-        "worked": true,
-        "ap_earned": 10,
-        "ap_calculated": false,
-        "user_id": 9,
-        "attended": true,
         "event_id": 5
     },
     {
@@ -59,7 +26,7 @@
         "paid": true,
         "checkin": true,
         "worked": true,
-        "ap_earned": 10,
+        "ap_earned": 0,
         "ap_calculated": false,
         "user_id": 9,
         "attended": true,
@@ -74,6 +41,39 @@
         "ap_calculated": false,
         "user_id": 9,
         "attended": true,
+        "event_id": 7
+    },
+    {
+        "rank": "player",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 10,
+        "ap_calculated": false,
+        "user_id": 9,
+        "attended": true,
+        "event_id": 8
+    },
+    {
+        "rank": "player",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 10,
+        "ap_calculated": false,
+        "user_id": 9,
+        "attended": true,
         "event_id": 9
+    },
+    {
+        "rank": "player",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 10,
+        "ap_calculated": false,
+        "user_id": 9,
+        "attended": true,
+        "event_id": 12
     }
 ]

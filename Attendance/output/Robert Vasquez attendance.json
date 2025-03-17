@@ -8,39 +8,6 @@
         "ap_calculated": false,
         "user_id": 101,
         "attended": true,
-        "event_id": 1
-    },
-    {
-        "rank": "story",
-        "paid": true,
-        "checkin": true,
-        "worked": true,
-        "ap_earned": 120,
-        "ap_calculated": false,
-        "user_id": 101,
-        "attended": true,
-        "event_id": 2
-    },
-    {
-        "rank": "story",
-        "paid": true,
-        "checkin": true,
-        "worked": true,
-        "ap_earned": 0,
-        "ap_calculated": false,
-        "user_id": 101,
-        "attended": true,
-        "event_id": 3
-    },
-    {
-        "rank": "story",
-        "paid": true,
-        "checkin": true,
-        "worked": true,
-        "ap_earned": 0,
-        "ap_calculated": false,
-        "user_id": 101,
-        "attended": true,
         "event_id": 4
     },
     {
@@ -48,7 +15,7 @@
         "paid": true,
         "checkin": true,
         "worked": true,
-        "ap_earned": 0,
+        "ap_earned": 120,
         "ap_calculated": false,
         "user_id": 101,
         "attended": true,
@@ -66,6 +33,39 @@
         "event_id": 6
     },
     {
+        "rank": "story",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 0,
+        "ap_calculated": false,
+        "user_id": 101,
+        "attended": true,
+        "event_id": 7
+    },
+    {
+        "rank": "story",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 0,
+        "ap_calculated": false,
+        "user_id": 101,
+        "attended": true,
+        "event_id": 8
+    },
+    {
+        "rank": "story",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 0,
+        "ap_calculated": false,
+        "user_id": 101,
+        "attended": true,
+        "event_id": 9
+    },
+    {
         "rank": "player",
         "paid": true,
         "checkin": true,
@@ -74,7 +74,7 @@
         "ap_calculated": false,
         "user_id": 33,
         "attended": true,
-        "event_id": 7
+        "event_id": 10
     },
     {
         "rank": "player",
@@ -85,7 +85,7 @@
         "ap_calculated": false,
         "user_id": 33,
         "attended": true,
-        "event_id": 8
+        "event_id": 11
     },
     {
         "rank": "story",
@@ -96,6 +96,6 @@
         "ap_calculated": false,
         "user_id": 33,
         "attended": true,
-        "event_id": 9
+        "event_id": 12
     }
 ]

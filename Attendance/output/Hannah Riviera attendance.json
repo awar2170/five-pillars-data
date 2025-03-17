@@ -8,7 +8,7 @@
         "ap_calculated": false,
         "user_id": 27,
         "attended": true,
-        "event_id": 1
+        "event_id": 4
     },
     {
         "rank": "staff",
@@ -19,7 +19,7 @@
         "ap_calculated": false,
         "user_id": 27,
         "attended": true,
-        "event_id": 2
+        "event_id": 5
     },
     {
         "rank": "story",
@@ -27,39 +27,6 @@
         "checkin": true,
         "worked": true,
         "ap_earned": 0,
-        "ap_calculated": false,
-        "user_id": 27,
-        "attended": true,
-        "event_id": 3
-    },
-    {
-        "rank": "staff",
-        "paid": true,
-        "checkin": true,
-        "worked": true,
-        "ap_earned": 0,
-        "ap_calculated": false,
-        "user_id": 27,
-        "attended": true,
-        "event_id": 4
-    },
-    {
-        "rank": "staff",
-        "paid": true,
-        "checkin": true,
-        "worked": true,
-        "ap_earned": 15,
-        "ap_calculated": false,
-        "user_id": 27,
-        "attended": true,
-        "event_id": 5
-    },
-    {
-        "rank": "staff",
-        "paid": true,
-        "checkin": true,
-        "worked": true,
-        "ap_earned": 20,
         "ap_calculated": false,
         "user_id": 27,
         "attended": true,
@@ -70,11 +37,44 @@
         "paid": true,
         "checkin": true,
         "worked": true,
-        "ap_earned": 40,
+        "ap_earned": 0,
         "ap_calculated": false,
         "user_id": 27,
         "attended": true,
         "event_id": 7
+    },
+    {
+        "rank": "staff",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 15,
+        "ap_calculated": false,
+        "user_id": 27,
+        "attended": true,
+        "event_id": 8
+    },
+    {
+        "rank": "staff",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 20,
+        "ap_calculated": false,
+        "user_id": 27,
+        "attended": true,
+        "event_id": 9
+    },
+    {
+        "rank": "staff",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 40,
+        "ap_calculated": false,
+        "user_id": 27,
+        "attended": true,
+        "event_id": 10
     },
     {
         "rank": "player",
@@ -85,7 +85,7 @@
         "ap_calculated": false,
         "user_id": 27,
         "attended": true,
-        "event_id": 8
+        "event_id": 11
     },
     {
         "rank": "story",
@@ -96,6 +96,6 @@
         "ap_calculated": false,
         "user_id": 27,
         "attended": true,
-        "event_id": 9
+        "event_id": 12
     }
 ]

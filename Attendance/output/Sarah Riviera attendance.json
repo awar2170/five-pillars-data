@@ -8,7 +8,7 @@
         "ap_calculated": false,
         "user_id": 8,
         "attended": true,
-        "event_id": 1
+        "event_id": 4
     },
     {
         "rank": "staff",
@@ -19,7 +19,7 @@
         "ap_calculated": false,
         "user_id": 8,
         "attended": true,
-        "event_id": 2
+        "event_id": 5
     },
     {
         "rank": "story",
@@ -30,7 +30,7 @@
         "ap_calculated": false,
         "user_id": 8,
         "attended": true,
-        "event_id": 3
+        "event_id": 6
     },
     {
         "rank": "staff",
@@ -41,7 +41,7 @@
         "ap_calculated": false,
         "user_id": 8,
         "attended": true,
-        "event_id": 4
+        "event_id": 7
     },
     {
         "rank": "staff",
@@ -52,7 +52,7 @@
         "ap_calculated": false,
         "user_id": 8,
         "attended": true,
-        "event_id": 5
+        "event_id": 8
     },
     {
         "rank": "staff",
@@ -63,7 +63,7 @@
         "ap_calculated": false,
         "user_id": 8,
         "attended": true,
-        "event_id": 6
+        "event_id": 9
     },
     {
         "rank": "staff",
@@ -74,7 +74,7 @@
         "ap_calculated": false,
         "user_id": 8,
         "attended": true,
-        "event_id": 7
+        "event_id": 10
     },
     {
         "rank": "staff",
@@ -85,6 +85,6 @@
         "ap_calculated": false,
         "user_id": 8,
         "attended": true,
-        "event_id": 8
+        "event_id": 11
     }
 ]

@@ -8,7 +8,7 @@
         "ap_calculated": false,
         "user_id": 12,
         "attended": true,
-        "event_id": 1
+        "event_id": 4
     },
     {
         "rank": "player",
@@ -19,7 +19,7 @@
         "ap_calculated": false,
         "user_id": 12,
         "attended": true,
-        "event_id": 2
+        "event_id": 5
     },
     {
         "rank": "player",
@@ -30,29 +30,29 @@
         "ap_calculated": false,
         "user_id": 12,
         "attended": true,
-        "event_id": 3
-    },
-    {
-        "rank": "player",
-        "paid": true,
-        "checkin": true,
-        "worked": true,
-        "ap_earned": 10,
-        "ap_calculated": false,
-        "user_id": 12,
-        "attended": true,
-        "event_id": 5
-    },
-    {
-        "rank": "player",
-        "paid": true,
-        "checkin": true,
-        "worked": true,
-        "ap_earned": 10,
-        "ap_calculated": false,
-        "user_id": 12,
-        "attended": true,
         "event_id": 6
+    },
+    {
+        "rank": "player",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 10,
+        "ap_calculated": false,
+        "user_id": 12,
+        "attended": true,
+        "event_id": 8
+    },
+    {
+        "rank": "player",
+        "paid": true,
+        "checkin": true,
+        "worked": true,
+        "ap_earned": 10,
+        "ap_calculated": false,
+        "user_id": 12,
+        "attended": true,
+        "event_id": 9
     },
     {
         "rank": "player",
@@ -63,6 +63,6 @@
         "ap_calculated": false,
         "user_id": 12,
         "attended": true,
-        "event_id": 9
+        "event_id": 12
     }
 ]
