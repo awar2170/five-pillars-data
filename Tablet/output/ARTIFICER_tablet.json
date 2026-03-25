@@ -331,7 +331,7 @@
     "property_monster": null,
     "property_class": "ARTIFICER",
     "property_computation": "Barrier",
-    "property_value": NaN,
+    "property_value": null,
     "property_description": "Create a single Basic Pavise that is able to block all damage and conditions (other than sunder and killing blows) it would otherwise receive. Does not prevent radius effects. A \"Sunder\" or a \"Killing Blow\" will immediately destroy the Pavise.",
     "property_limitations": "Max size- 72\"x36\" Must be constructed entirely from foam. A Pavise that has been destroyed IP must be immediately removed from the battlefield. Once repaired, it must be fully set up back on the battlefield before it can provide any protection. ",
     "boon_effect": null,
