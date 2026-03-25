@@ -1,7 +1,7 @@
 [
   {
     "property_name": "Call Guardian",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -19,7 +19,7 @@
   },
   {
     "property_name": "Dismiss Guardian",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -37,7 +37,7 @@
   },
   {
     "property_name": "Enthrall Feeble Being ",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -55,7 +55,7 @@
   },
   {
     "property_name": "Enthrall Lesser Being ",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -73,7 +73,7 @@
   },
   {
     "property_name": "Enthrall Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -91,7 +91,7 @@
   },
   {
     "property_name": "Enthrall Greater Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -109,7 +109,7 @@
   },
   {
     "property_name": "Enthrall Major Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -127,7 +127,7 @@
   },
   {
     "property_name": "Enthrall Mythic Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -145,7 +145,7 @@
   },
   {
     "property_name": "Conjure Feeble Being (NAME)",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -163,7 +163,7 @@
   },
   {
     "property_name": "Conjure Lesser Being (NAME)",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -181,7 +181,7 @@
   },
   {
     "property_name": "Conjure Being (NAME)",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -199,7 +199,7 @@
   },
   {
     "property_name": "Conjure Greater Being (NAME)",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -217,7 +217,7 @@
   },
   {
     "property_name": "Conjure Major Being (NAME)",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -235,7 +235,7 @@
   },
   {
     "property_name": "Conjure Mythic Being (NAME)",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -253,7 +253,7 @@
   },
   {
     "property_name": "Track Feeble Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -271,7 +271,7 @@
   },
   {
     "property_name": "Track Lesser Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -289,7 +289,7 @@
   },
   {
     "property_name": "Track Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -307,7 +307,7 @@
   },
   {
     "property_name": "Track Greater Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -325,7 +325,7 @@
   },
   {
     "property_name": "Track Major Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -343,7 +343,7 @@
   },
   {
     "property_name": "Track Mythic Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -361,7 +361,7 @@
   },
   {
     "property_name": "Enhance Feeble Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -379,7 +379,7 @@
   },
   {
     "property_name": "Enhance Lesser Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -397,7 +397,7 @@
   },
   {
     "property_name": "Enhance Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -415,7 +415,7 @@
   },
   {
     "property_name": "Enhance Greater Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -433,7 +433,7 @@
   },
   {
     "property_name": "Enhance Major Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -451,7 +451,7 @@
   },
   {
     "property_name": "Enhance Mythic Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -469,7 +469,7 @@
   },
   {
     "property_name": "Rejuvenate Guardian",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -487,7 +487,7 @@
   },
   {
     "property_name": "Enthrall Feeble Being ",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -505,7 +505,7 @@
   },
   {
     "property_name": "Enthrall Lesser Being ",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -523,7 +523,7 @@
   },
   {
     "property_name": "Enthrall Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -541,7 +541,7 @@
   },
   {
     "property_name": "Enthrall Greater Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -559,7 +559,7 @@
   },
   {
     "property_name": "Enthrall Major Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -577,7 +577,7 @@
   },
   {
     "property_name": "Enthrall Mythic Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -595,7 +595,7 @@
   },
   {
     "property_name": "Conjure Feeble Being (NAME)",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -613,7 +613,7 @@
   },
   {
     "property_name": "Conjure Lesser Being (NAME)",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -631,7 +631,7 @@
   },
   {
     "property_name": "Conjure Being (NAME)",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -649,7 +649,7 @@
   },
   {
     "property_name": "Conjure Greater Being (NAME)",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -667,7 +667,7 @@
   },
   {
     "property_name": "Conjure Major Being (NAME)",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -685,7 +685,7 @@
   },
   {
     "property_name": "Conjure Mythic Being (NAME)",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -703,7 +703,7 @@
   },
   {
     "property_name": "Track Feeble Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -721,7 +721,7 @@
   },
   {
     "property_name": "Track Lesser Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -739,7 +739,7 @@
   },
   {
     "property_name": "Track Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -757,7 +757,7 @@
   },
   {
     "property_name": "Track Greater Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -775,7 +775,7 @@
   },
   {
     "property_name": "Track Major Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -793,7 +793,7 @@
   },
   {
     "property_name": "Track Mythic Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -811,7 +811,7 @@
   },
   {
     "property_name": "Enhance Lesser Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -829,7 +829,7 @@
   },
   {
     "property_name": "Enhance Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -847,7 +847,7 @@
   },
   {
     "property_name": "Enhance Greater Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -865,7 +865,7 @@
   },
   {
     "property_name": "Enhance Major Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -883,7 +883,7 @@
   },
   {
     "property_name": "Enhance Mythic Being",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
@@ -901,7 +901,7 @@
   },
   {
     "property_name": "Rejuvenate Guardian",
-    "property_size": false,
+    "property_size": 0,
     "property_source": "Tablet",
     "property_ability": null,
     "property_monster": null,
