@@ -2194,5 +2194,41 @@
     "property_destroyable": false,
     "property_hidden": false,
     "upcast": true
+  },
+  {
+    "property_name": "Destroy Enchantment",
+    "property_size": 0,
+    "property_source": "Tablet",
+    "property_ability": null,
+    "property_monster": null,
+    "property_class": "ENCHANTER",
+    "property_computation": null,
+    "property_value": null,
+    "property_description": "Removes an enchantment from an item to recover capacity.",
+    "property_limitations": "Does not remove curses from items",
+    "boon_effect": null,
+    "property_unique": false,
+    "property_curse": false,
+    "property_destroyable": false,
+    "property_hidden": false,
+    "upcast": false
+  },
+  {
+    "property_name": "Destroy Enchantment",
+    "property_size": 0,
+    "property_source": "Tablet",
+    "property_ability": null,
+    "property_monster": null,
+    "property_class": "ENCHANTER",
+    "property_computation": null,
+    "property_value": null,
+    "property_description": "Removes an enchantment from an item to recover capacity.\n\nUpcast: Allows the caster to destroy 1 curse instead.",
+    "property_limitations": "Does not remove curses from items",
+    "boon_effect": null,
+    "property_unique": false,
+    "property_curse": false,
+    "property_destroyable": false,
+    "property_hidden": false,
+    "upcast": false
   }
 ]
