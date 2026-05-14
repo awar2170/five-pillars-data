@@ -15,7 +15,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Major Honing",
@@ -33,7 +34,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Master Honing",
@@ -51,7 +53,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Tempering",
@@ -69,7 +72,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Major Tempering",
@@ -87,7 +91,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Master Tempering",
@@ -105,7 +110,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Engraving",
@@ -123,7 +129,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Major Engraving",
@@ -141,7 +148,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Master Engraving",
@@ -159,7 +167,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Efficiency",
@@ -177,7 +186,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Major Efficiency",
@@ -195,7 +205,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Master Efficiency",
@@ -213,7 +224,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Chambering",
@@ -231,7 +243,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Major Chambering",
@@ -249,7 +262,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Master Chambering",
@@ -267,7 +281,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Basic Trap",
@@ -285,7 +300,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Standard Trap",
@@ -303,7 +319,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Greater Trap",
@@ -321,7 +338,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Pavise",
@@ -339,7 +357,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Vault",
@@ -357,7 +376,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Fortified Vault",
@@ -375,7 +395,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Impregnable Vault",
@@ -393,7 +414,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Honing",
@@ -411,7 +433,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Major Honing",
@@ -429,7 +452,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Master Honing",
@@ -447,7 +471,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Tempering",
@@ -465,7 +490,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Major Tempering",
@@ -483,7 +509,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Master Tempering",
@@ -501,7 +528,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Engraving",
@@ -519,7 +547,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Major Engraving",
@@ -537,7 +566,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Master Engraving",
@@ -555,7 +585,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Efficiency",
@@ -573,7 +604,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Major Efficiency",
@@ -591,7 +623,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Master Efficiency",
@@ -609,7 +642,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Chambering",
@@ -627,7 +661,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Major Chambering",
@@ -645,7 +680,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Master Chambering",
@@ -663,7 +699,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Basic Trap",
@@ -681,7 +718,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Standard Trap",
@@ -699,7 +737,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Greater Trap",
@@ -717,7 +756,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Vault",
@@ -735,7 +775,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Fortified Vault",
@@ -753,7 +794,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Impregnable Vault",
@@ -771,6 +813,7 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   }
 ]

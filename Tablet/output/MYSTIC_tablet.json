@@ -15,7 +15,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Spirit Beacon",
@@ -33,7 +34,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Lesser Identify Person",
@@ -51,7 +53,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Identify Person",
@@ -69,7 +72,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Greater Identify Person",
@@ -87,7 +91,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Soulbind",
@@ -105,7 +110,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Unbind",
@@ -123,7 +129,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Unshackle",
@@ -141,7 +148,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Release",
@@ -159,7 +167,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Plumb the Past",
@@ -177,7 +186,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Divine the Beginnings",
@@ -195,7 +205,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "See the Present",
@@ -213,7 +224,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "See through Space",
@@ -231,7 +243,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Visions across Space",
@@ -249,7 +262,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Follow from Beyond",
@@ -267,7 +281,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Stalk from Beyond",
@@ -285,7 +300,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Decipher Reality",
@@ -303,7 +319,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Spirit Spy",
@@ -321,7 +338,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Astral Projection",
@@ -339,7 +357,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Exploratory Teleport",
@@ -357,7 +376,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Novice Transmutation",
@@ -375,7 +395,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Adept Transmutation",
@@ -393,7 +414,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Journeyman Transmutation",
@@ -411,7 +433,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Master Transmutation",
@@ -429,7 +452,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Elemental Eruption",
@@ -447,7 +471,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Unhallowed Ground",
@@ -465,7 +490,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Hallowed Ground",
@@ -483,7 +509,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Friendship",
@@ -501,7 +528,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Charm",
@@ -519,7 +547,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Mass Friendship",
@@ -537,7 +566,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Mass Charm",
@@ -555,7 +585,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Anti-magic Zone",
@@ -573,7 +604,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Zone of Nullification",
@@ -591,7 +623,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Moonbeam Road",
@@ -609,7 +642,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Mass Teleport",
@@ -627,7 +661,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Ethereal Sojourn",
@@ -645,7 +680,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Targeted Ethereal Sojourn",
@@ -663,7 +699,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Mass Ethereal Sojourn",
@@ -681,7 +718,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Knock",
@@ -699,7 +737,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Rejuvenating Force",
@@ -717,7 +756,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Destroying Force",
@@ -735,7 +775,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Thriving Force",
@@ -753,7 +794,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Human",
@@ -771,7 +813,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Dwarf",
@@ -789,7 +832,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Littlefolk",
@@ -807,7 +851,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Elemental",
@@ -825,7 +870,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Beastfolk",
@@ -843,7 +889,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Revenant",
@@ -861,7 +908,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Nephilim",
@@ -879,7 +927,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Dhampyr",
@@ -897,7 +946,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Orc",
@@ -915,7 +965,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Lizardfolk",
@@ -933,7 +984,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Elf",
@@ -951,7 +1003,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Create New Passphrase",
@@ -969,7 +1022,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Create Temporary Passphrase",
@@ -987,7 +1041,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Remove Passphrase",
@@ -1005,7 +1060,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Create Basic Lodestone",
@@ -1023,7 +1079,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Create Standard Lodestone",
@@ -1041,7 +1098,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Create Superior Lodestone",
@@ -1059,7 +1117,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Soul's Solace",
@@ -1077,7 +1136,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Spirit Beacon",
@@ -1095,7 +1155,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Lesser Identify Person",
@@ -1113,7 +1174,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Identify Person",
@@ -1131,7 +1193,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Greater Identify Person",
@@ -1149,7 +1212,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Soulbind",
@@ -1167,7 +1231,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Unbind",
@@ -1185,7 +1250,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Unshackle",
@@ -1203,7 +1269,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Release",
@@ -1221,7 +1288,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Plumb the Past",
@@ -1239,7 +1307,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Divine the Beginnings",
@@ -1257,7 +1326,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "See the Present",
@@ -1275,7 +1345,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "See through Space",
@@ -1293,7 +1364,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Follow from Beyond",
@@ -1311,7 +1383,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Exploratory Teleport",
@@ -1329,7 +1402,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Novice Transmutation",
@@ -1347,7 +1421,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Adept Transmutation",
@@ -1365,7 +1440,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Journeyman Transmutation",
@@ -1383,7 +1459,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Master Transmutation",
@@ -1401,7 +1478,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Elemental Eruption",
@@ -1419,7 +1497,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Unhallowed Ground",
@@ -1437,7 +1516,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Hallowed Ground",
@@ -1455,7 +1535,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Friendship",
@@ -1473,7 +1554,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Charm",
@@ -1491,7 +1573,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Mass Friendship",
@@ -1509,7 +1592,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Mass Charm",
@@ -1527,7 +1611,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Anti-magic Zone",
@@ -1545,7 +1630,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Zone of Nullification",
@@ -1563,7 +1649,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Moonbeam Road",
@@ -1581,7 +1668,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Mass Teleport",
@@ -1599,7 +1687,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Ethereal Sojourn",
@@ -1617,7 +1706,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Targeted Ethereal Sojourn",
@@ -1635,7 +1725,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Mass Ethereal Sojourn",
@@ -1653,7 +1744,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Rejuvenating Force",
@@ -1671,7 +1763,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Destroying Force",
@@ -1689,7 +1782,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Thriving Force",
@@ -1707,7 +1801,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Human",
@@ -1725,7 +1820,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Dwarf",
@@ -1743,7 +1839,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Littlefolk",
@@ -1761,7 +1858,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Elemental",
@@ -1779,7 +1877,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Beastfolk",
@@ -1797,7 +1896,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Revenant",
@@ -1815,7 +1915,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Nephilim",
@@ -1833,7 +1934,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Dhampyr",
@@ -1851,7 +1953,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Orc",
@@ -1869,7 +1972,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Lizardfolk",
@@ -1887,7 +1991,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Heritage Change Elf",
@@ -1905,7 +2010,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Create Temporary Passphrase",
@@ -1923,7 +2029,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Remove Passphrase",
@@ -1941,7 +2048,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Create Basic Lodestone",
@@ -1959,6 +2067,7 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   }
 ]

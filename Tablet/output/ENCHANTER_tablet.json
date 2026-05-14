@@ -15,7 +15,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Grant Ability",
@@ -33,7 +34,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Enhance Ability",
@@ -51,7 +53,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Slaying ",
@@ -69,7 +72,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Major Slaying",
@@ -87,7 +91,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Master Slaying",
@@ -105,7 +110,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Defender",
@@ -123,7 +129,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Major Defender",
@@ -141,7 +148,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Master Defender",
@@ -159,7 +167,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Empowering",
@@ -177,7 +186,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Major Empowering",
@@ -195,7 +205,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Master Empowering",
@@ -213,7 +224,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Vampiric",
@@ -231,7 +243,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Major Vampiric",
@@ -249,7 +262,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Master Vampiric",
@@ -267,7 +281,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Shielding",
@@ -285,7 +300,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Major Shielding",
@@ -303,7 +319,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Master Shielding",
@@ -321,7 +338,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Focusing",
@@ -339,7 +357,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Major Focusing",
@@ -357,7 +376,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Master Focusing",
@@ -375,7 +395,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Subtle",
@@ -393,7 +414,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Major Subtle",
@@ -411,7 +433,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Master Subtle",
@@ -429,7 +452,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Glancing",
@@ -447,7 +471,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Master Glancing",
@@ -465,7 +490,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Branding Smite",
@@ -483,7 +509,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Major Branding Smite",
@@ -501,7 +528,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Master Branding Smite",
@@ -519,7 +547,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Disrupting Smite",
@@ -537,7 +566,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Shattering Smite",
@@ -555,7 +585,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Mortal Smite",
@@ -573,7 +604,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Curse of Elemental Vulnerability: Acid",
@@ -591,7 +623,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Elemental Vulnerability: Ice",
@@ -609,7 +642,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Elemental Vulnerability: Fire",
@@ -627,7 +661,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Elemental Vulnerability: Shock",
@@ -645,7 +680,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Vulnerability",
@@ -663,7 +699,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Curse of Physical Weakness",
@@ -681,7 +718,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Curse of Mental Weakness",
@@ -699,7 +737,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Curse of Utter Weakness",
@@ -717,7 +756,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Frailty",
@@ -735,7 +775,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Curse of Major Frailty",
@@ -753,7 +794,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Utter Frailty",
@@ -771,7 +813,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Curse of Fading",
@@ -789,7 +832,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Anemia",
@@ -807,7 +851,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Creeping Death: Waste",
@@ -825,7 +870,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Curse of Creeping Death: Paralyze",
@@ -843,7 +889,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Curse of Creeping Death: Blight",
@@ -861,7 +908,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Curse of Violent Death: Charm",
@@ -879,7 +927,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Violent Death: Silence",
@@ -897,7 +946,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Violent Death: Slow",
@@ -915,7 +965,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Violent Death: Hemorrhage",
@@ -933,7 +984,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Violent Death: Sunder",
@@ -951,7 +1003,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Sudden Death: Push",
@@ -969,7 +1022,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Curse of Sudden Death: Sleep",
@@ -987,7 +1041,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Curse of Sudden Death: Fear",
@@ -1005,7 +1060,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Curse of Sudden Death: Immobilize",
@@ -1023,7 +1079,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Curse of Sudden Death: Wither",
@@ -1041,7 +1098,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Enchanted Ward",
@@ -1059,7 +1117,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Arcane Ward",
@@ -1077,7 +1136,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Eldritch Ward",
@@ -1095,7 +1155,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Expand Ability",
@@ -1113,7 +1174,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Grant Ability",
@@ -1131,7 +1193,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Enhance Ability",
@@ -1149,7 +1212,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Slaying ",
@@ -1167,7 +1231,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Major Slaying",
@@ -1185,7 +1250,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Master Slaying",
@@ -1203,7 +1269,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Defender",
@@ -1221,7 +1288,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Major Defender",
@@ -1239,7 +1307,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Master Defender",
@@ -1257,7 +1326,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Empowering",
@@ -1275,7 +1345,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Major Empowering",
@@ -1293,7 +1364,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Master Empowering",
@@ -1311,7 +1383,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Vampiric",
@@ -1329,7 +1402,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Major Vampiric",
@@ -1347,7 +1421,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Master Vampiric",
@@ -1365,7 +1440,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Shielding",
@@ -1383,7 +1459,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Major Shielding",
@@ -1401,7 +1478,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Master Shielding",
@@ -1419,7 +1497,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Focusing",
@@ -1437,7 +1516,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Major Focusing",
@@ -1455,7 +1535,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Master Focusing",
@@ -1473,7 +1554,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Subtle",
@@ -1491,7 +1573,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Major Subtle",
@@ -1509,7 +1592,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Master Subtle",
@@ -1527,7 +1611,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Glancing",
@@ -1545,7 +1630,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Master Glancing",
@@ -1563,7 +1649,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Branding Smite",
@@ -1581,7 +1668,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Major Branding Smite",
@@ -1599,7 +1687,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Master Branding Smite",
@@ -1617,7 +1706,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Disrupting Smite",
@@ -1635,7 +1725,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Shattering Smite",
@@ -1653,7 +1744,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Mortal Smite",
@@ -1671,7 +1763,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Curse of Elemental Vulnerability: Acid",
@@ -1689,7 +1782,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Elemental Vulnerability: Ice",
@@ -1707,7 +1801,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Elemental Vulnerability: Fire",
@@ -1725,7 +1820,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Elemental Vulnerability: Shock",
@@ -1743,7 +1839,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Vulnerability",
@@ -1761,7 +1858,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Curse of Physical Weakness",
@@ -1779,7 +1877,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Curse of Mental Weakness",
@@ -1797,7 +1896,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Curse of Utter Weakness",
@@ -1815,7 +1915,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Frailty",
@@ -1833,7 +1934,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Curse of Major Frailty",
@@ -1851,7 +1953,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Utter Frailty",
@@ -1869,7 +1972,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Curse of Fading",
@@ -1887,7 +1991,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Anemia",
@@ -1905,7 +2010,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Creeping Death: Waste",
@@ -1923,7 +2029,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Curse of Creeping Death: Paralyze",
@@ -1941,7 +2048,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Curse of Creeping Death: Blight",
@@ -1959,7 +2067,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Curse of Violent Death: Charm",
@@ -1977,7 +2086,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Violent Death: Silence",
@@ -1995,7 +2105,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Violent Death: Slow",
@@ -2013,7 +2124,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Violent Death: Hemorrhage",
@@ -2031,7 +2143,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Violent Death: Sunder",
@@ -2049,7 +2162,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Curse of Sudden Death: Push",
@@ -2067,7 +2181,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Curse of Sudden Death: Sleep",
@@ -2085,7 +2200,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Curse of Sudden Death: Fear",
@@ -2103,7 +2219,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Curse of Sudden Death: Immobilize",
@@ -2121,7 +2238,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Curse of Sudden Death: Wither",
@@ -2139,7 +2257,8 @@
     "property_curse": true,
     "property_destroyable": true,
     "property_hidden": true,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Enchanted Ward",
@@ -2157,7 +2276,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Arcane Ward",
@@ -2175,7 +2295,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Eldritch Ward",
@@ -2193,6 +2314,7 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   }
 ]

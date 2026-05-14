@@ -15,7 +15,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Dismiss Guardian",
@@ -33,7 +34,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Enthrall Feeble Being ",
@@ -51,7 +53,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Enthrall Lesser Being ",
@@ -69,7 +72,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Enthrall Being",
@@ -87,7 +91,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Enthrall Greater Being",
@@ -105,7 +110,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Enthrall Major Being",
@@ -123,7 +129,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Enthrall Mythic Being",
@@ -141,7 +148,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Conjure Feeble Being (NAME)",
@@ -159,7 +167,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Conjure Lesser Being (NAME)",
@@ -177,7 +186,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Conjure Being (NAME)",
@@ -195,7 +205,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Conjure Greater Being (NAME)",
@@ -213,7 +224,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Conjure Major Being (NAME)",
@@ -231,7 +243,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Conjure Mythic Being (NAME)",
@@ -249,7 +262,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Track Feeble Being",
@@ -267,7 +281,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Track Lesser Being",
@@ -285,7 +300,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Track Being",
@@ -303,7 +319,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Track Greater Being",
@@ -321,7 +338,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Track Major Being",
@@ -339,7 +357,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Track Mythic Being",
@@ -357,7 +376,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Enhance Feeble Being",
@@ -375,7 +395,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Enhance Lesser Being",
@@ -393,7 +414,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Enhance Being",
@@ -411,7 +433,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Enhance Greater Being",
@@ -429,7 +452,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Enhance Major Being",
@@ -447,7 +471,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Enhance Mythic Being",
@@ -465,7 +490,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Rejuvenate Guardian",
@@ -483,7 +509,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Enthrall Feeble Being ",
@@ -501,7 +528,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Enthrall Lesser Being ",
@@ -519,7 +547,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Enthrall Being",
@@ -537,7 +566,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Enthrall Greater Being",
@@ -555,7 +585,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Enthrall Major Being",
@@ -573,7 +604,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Enthrall Mythic Being",
@@ -591,7 +623,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Conjure Feeble Being (NAME)",
@@ -609,7 +642,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Conjure Lesser Being (NAME)",
@@ -627,7 +661,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Conjure Being (NAME)",
@@ -645,7 +680,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Conjure Greater Being (NAME)",
@@ -663,7 +699,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Conjure Major Being (NAME)",
@@ -681,7 +718,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Conjure Mythic Being (NAME)",
@@ -699,7 +737,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Track Feeble Being",
@@ -717,7 +756,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Track Lesser Being",
@@ -735,7 +775,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Track Being",
@@ -753,7 +794,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Track Greater Being",
@@ -771,7 +813,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Track Major Being",
@@ -789,7 +832,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Track Mythic Being",
@@ -807,7 +851,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Enhance Lesser Being",
@@ -825,7 +870,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Enhance Being",
@@ -843,7 +889,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Enhance Greater Being",
@@ -861,7 +908,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Enhance Major Being",
@@ -879,7 +927,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Enhance Mythic Being",
@@ -897,7 +946,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Rejuvenate Guardian",
@@ -915,6 +965,7 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   }
 ]

@@ -15,7 +15,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 1
   },
   {
     "property_name": "Boon of Dedication",
@@ -33,7 +34,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Boon of Devotion",
@@ -51,7 +53,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Boon of Divinity",
@@ -69,7 +72,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Blessing of Fortitude ",
@@ -87,7 +91,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Greater Fortitude",
@@ -105,7 +110,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Divine Fortitude",
@@ -123,7 +129,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of Ferocity",
@@ -141,7 +148,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Greater Ferocity",
@@ -159,7 +167,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Divine Ferocity",
@@ -177,7 +186,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of Toughness",
@@ -195,7 +205,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Greater Toughness",
@@ -213,7 +224,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Divine Toughness",
@@ -231,7 +243,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of Resistance",
@@ -249,7 +262,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Greater Resistance",
@@ -267,7 +281,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Divine Resistance",
@@ -285,7 +300,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of the Setting Sun",
@@ -303,7 +319,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of the Rising Sun",
@@ -321,7 +338,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of the Noontide Sun",
@@ -339,7 +357,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Blessing of the Full Moon",
@@ -357,7 +376,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of the Waning Moon",
@@ -375,7 +395,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of the New Moon",
@@ -393,7 +414,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Blessing of Penance",
@@ -411,7 +433,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of Suffering Penance",
@@ -429,7 +452,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of Divine Penance",
@@ -447,7 +471,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Blessing of Transformation",
@@ -465,7 +490,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Total Transformation",
@@ -483,7 +509,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Divine Transformation",
@@ -501,7 +528,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of the Unchained",
@@ -519,7 +547,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of the Liberated Unchained",
@@ -537,7 +566,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Unfettered Unchained",
@@ -555,7 +585,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of the Elements",
@@ -573,7 +604,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of the Raging Elements",
@@ -591,7 +623,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of the Pure Elements",
@@ -609,7 +642,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Blessing of Endowment",
@@ -627,7 +661,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Major Endowment",
@@ -645,7 +680,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Divine Endowment",
@@ -663,7 +699,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of Greed",
@@ -681,7 +718,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Total Greed",
@@ -699,7 +737,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Supreme Greed",
@@ -717,7 +756,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of Trollskin",
@@ -735,7 +775,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of Trollflesh",
@@ -753,7 +794,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of Trollblood",
@@ -771,7 +813,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 7
   },
   {
     "property_name": "Blessing of the Hangman",
@@ -789,7 +832,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Destruction",
@@ -807,7 +851,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Grove",
@@ -825,7 +870,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Twofold",
@@ -843,7 +889,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Dullard",
@@ -861,7 +908,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Pilgrim",
@@ -879,7 +927,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Pacifist",
@@ -897,7 +946,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Wall",
@@ -915,7 +965,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Mortality",
@@ -933,7 +984,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of the Jackal",
@@ -951,7 +1003,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of the Inventor",
@@ -969,7 +1022,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of the Brilliant Inventor",
@@ -987,7 +1041,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Mastery",
@@ -1005,7 +1060,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of Evocation",
@@ -1023,7 +1079,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Wooden Fist",
@@ -1041,7 +1098,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of the Stone Fist",
@@ -1059,7 +1117,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Iron Fist",
@@ -1077,7 +1136,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of Oozing Blood",
@@ -1095,7 +1155,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Running Blood",
@@ -1113,7 +1174,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Gushing Blood",
@@ -1131,7 +1193,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": false
+    "upcast": false,
+    "property_grade": 6
   },
   {
     "property_name": "Dismiss Blessing",
@@ -1149,7 +1212,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 1
   },
   {
     "property_name": "Boon of Dedication",
@@ -1167,7 +1231,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Boon of Devotion",
@@ -1185,7 +1250,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Boon of Divinity",
@@ -1203,7 +1269,8 @@
     "property_curse": false,
     "property_destroyable": false,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Blessing of Fortitude ",
@@ -1221,7 +1288,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Greater Fortitude",
@@ -1239,7 +1307,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Divine Fortitude",
@@ -1257,7 +1326,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of Ferocity",
@@ -1275,7 +1345,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Greater Ferocity",
@@ -1293,7 +1364,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Divine Ferocity",
@@ -1311,7 +1383,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of Toughness",
@@ -1329,7 +1402,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Greater Toughness",
@@ -1347,7 +1421,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Divine Toughness",
@@ -1365,7 +1440,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of Resistance",
@@ -1383,7 +1459,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Greater Resistance",
@@ -1401,7 +1478,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Divine Resistance",
@@ -1419,7 +1497,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of the Setting Sun",
@@ -1437,7 +1516,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of the Rising Sun",
@@ -1455,7 +1535,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of the Noontide Sun",
@@ -1473,7 +1554,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Blessing of the Full Moon",
@@ -1491,7 +1573,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of the Waning Moon",
@@ -1509,7 +1592,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of the New Moon",
@@ -1527,7 +1611,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Blessing of Penance",
@@ -1545,7 +1630,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of Suffering Penance",
@@ -1563,7 +1649,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of Divine Penance",
@@ -1581,7 +1668,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Blessing of Transformation",
@@ -1599,7 +1687,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Total Transformation",
@@ -1617,7 +1706,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Divine Transformation",
@@ -1635,7 +1725,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of the Unchained",
@@ -1653,7 +1744,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of the Liberated Unchained",
@@ -1671,7 +1763,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Unfettered Unchained",
@@ -1689,7 +1782,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of the Elements",
@@ -1707,7 +1801,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of the Raging Elements",
@@ -1725,7 +1820,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of the Pure Elements",
@@ -1743,7 +1839,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Blessing of Endowment",
@@ -1761,7 +1858,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Major Endowment",
@@ -1779,7 +1877,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Divine Endowment",
@@ -1797,7 +1896,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of Greed",
@@ -1815,7 +1915,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Total Greed",
@@ -1833,7 +1934,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Supreme Greed",
@@ -1851,7 +1953,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of Trollskin",
@@ -1869,7 +1972,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of Trollflesh",
@@ -1887,7 +1991,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of Trollblood",
@@ -1905,7 +2010,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 7
   },
   {
     "property_name": "Blessing of the Hangman",
@@ -1923,7 +2029,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Destruction",
@@ -1941,7 +2048,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Grove",
@@ -1959,7 +2067,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Twofold",
@@ -1977,7 +2086,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Dullard",
@@ -1995,7 +2105,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Pilgrim",
@@ -2013,7 +2124,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Pacifist",
@@ -2031,7 +2143,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Wall",
@@ -2049,7 +2162,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Mortality",
@@ -2067,7 +2181,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of the Jackal",
@@ -2085,7 +2200,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of the Inventor",
@@ -2103,7 +2219,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 3
   },
   {
     "property_name": "Blessing of the Brilliant Inventor",
@@ -2121,7 +2238,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Mastery",
@@ -2139,7 +2257,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 5
   },
   {
     "property_name": "Blessing of Evocation",
@@ -2157,7 +2276,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Wooden Fist",
@@ -2175,7 +2295,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of the Stone Fist",
@@ -2193,7 +2314,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of the Iron Fist",
@@ -2211,7 +2333,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   },
   {
     "property_name": "Blessing of Oozing Blood",
@@ -2229,7 +2352,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 2
   },
   {
     "property_name": "Blessing of Running Blood",
@@ -2247,7 +2371,8 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 4
   },
   {
     "property_name": "Blessing of Gushing Blood",
@@ -2265,6 +2390,7 @@
     "property_curse": false,
     "property_destroyable": true,
     "property_hidden": false,
-    "upcast": true
+    "upcast": true,
+    "property_grade": 6
   }
 ]
